@@ -17,7 +17,7 @@ const toast = document.querySelector(".toast");
 
 // const baseURL = "https://innshare.herokuapp.com";
 // const baseURL ="http://localhost:3000"
-const baseURL = "https://node-sharing.vercel.app/"
+const baseURL = "https://node-sharing.vercel.app"
 const uploadURL = `${baseURL}/api/files`;
 const emailURL = `${baseURL}/api/files/send`;
 
